@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udishkrishna447/java/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udishkrishna447/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/udishkrishna447/java/tree/master/0485-max-consecutive-ones) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udishkrishna447/java/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
