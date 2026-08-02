@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/udishkrishna447/java/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/udishkrishna447/java/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/udishkrishna447/java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/udishkrishna447/java/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/udishkrishna447/java/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
