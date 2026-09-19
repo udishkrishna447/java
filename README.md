@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/udishkrishna447/java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/udishkrishna447/java/tree/master/0485-max-consecutive-ones) |
+| [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/udishkrishna447/java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/udishkrishna447/java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/udishkrishna447/java/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/udishkrishna447/java/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udishkrishna447/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
