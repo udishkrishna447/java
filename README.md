@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/udishkrishna447/java/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/udishkrishna447/java/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/udishkrishna447/java/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
