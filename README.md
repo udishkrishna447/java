@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/udishkrishna447/java/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/udishkrishna447/java/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/udishkrishna447/java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
