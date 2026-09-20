@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/udishkrishna447/java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/udishkrishna447/java/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/udishkrishna447/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/udishkrishna447/java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/udishkrishna447/java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
