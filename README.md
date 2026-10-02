@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/udishkrishna447/java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/udishkrishna447/java/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udishkrishna447/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/udishkrishna447/java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/udishkrishna447/java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/udishkrishna447/java/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/udishkrishna447/java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/udishkrishna447/java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/udishkrishna447/java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udishkrishna447/java/tree/master/0268-missing-number) |
 ## Union-Find
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
