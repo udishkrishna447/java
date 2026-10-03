@@ -3,16 +3,14 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int freq1[]=new int[26];
-        int freq2[]=new int[26];
+        int freq1[]= new int[26];
+        int freq2[]= new int[26];
         for(int i=0;i<s.length();i++){
-            char temp=s.charAt(i);
-            int value=temp-'a';
+            int value= s.charAt(i)-'a';
             freq1[value]++;
         }
         for(int i=0;i<t.length();i++){
-            char temp=t.charAt(i);
-            int value=temp-'a';
+            int value= t.charAt(i)-'a';
             freq2[value]++;
         }
         for(int i=0;i<26;i++){
