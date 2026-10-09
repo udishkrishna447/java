@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udishkrishna447/java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udishkrishna447/java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/udishkrishna447/java/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/udishkrishna447/java/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udishkrishna447/java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udishkrishna447/java/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/udishkrishna447/java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udishkrishna447/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udishkrishna447/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udishkrishna447/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Counting
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
