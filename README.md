@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udishkrishna447/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/udishkrishna447/java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/udishkrishna447/java/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udishkrishna447/java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udishkrishna447/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udishkrishna447/java/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/udishkrishna447/java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/udishkrishna447/java/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udishkrishna447/java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/udishkrishna447/java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/udishkrishna447/java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udishkrishna447/java/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
