@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/udishkrishna447/java/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/udishkrishna447/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/udishkrishna447/java/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/udishkrishna447/java/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udishkrishna447/java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udishkrishna447/java/tree/master/0151-reverse-words-in-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/udishkrishna447/java/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/udishkrishna447/java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/udishkrishna447/java/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udishkrishna447/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udishkrishna447/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Counting
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/udishkrishna447/java/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/udishkrishna447/java/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/udishkrishna447/java/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/udishkrishna447/java/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/udishkrishna447/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Counting Sort
 |  |
