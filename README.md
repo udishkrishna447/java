@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udishkrishna447/java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udishkrishna447/java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/udishkrishna447/java/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/udishkrishna447/java/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/udishkrishna447/java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/udishkrishna447/java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
@@ -236,4 +238,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
