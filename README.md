@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/udishkrishna447/java/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/udishkrishna447/java/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/udishkrishna447/java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/udishkrishna447/java/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/udishkrishna447/java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/udishkrishna447/java/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/udishkrishna447/java/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/udishkrishna447/java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/udishkrishna447/java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/udishkrishna447/java/tree/master/0189-rotate-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/udishkrishna447/java/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
