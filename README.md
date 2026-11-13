@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/udishkrishna447/java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/udishkrishna447/java/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/udishkrishna447/java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/udishkrishna447/java/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/udishkrishna447/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/udishkrishna447/java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/udishkrishna447/java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
