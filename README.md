@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/udishkrishna447/java/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/udishkrishna447/java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/udishkrishna447/java/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/udishkrishna447/java/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
