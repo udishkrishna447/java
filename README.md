@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/udishkrishna447/java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/udishkrishna447/java/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -210,4 +211,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/udishkrishna447/java/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udishkrishna447/java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
