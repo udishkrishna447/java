@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/udishkrishna447/java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/udishkrishna447/java/tree/master/1929-concatenation-of-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/udishkrishna447/java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/udishkrishna447/java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/udishkrishna447/java/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/udishkrishna447/java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/udishkrishna447/java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/udishkrishna447/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udishkrishna447/java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/udishkrishna447/java/tree/master/1768-merge-strings-alternately) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/udishkrishna447/java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/udishkrishna447/java/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/udishkrishna447/java/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udishkrishna447/java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/udishkrishna447/java/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Union-Find
 |  |
 | ------- |
