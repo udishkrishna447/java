@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/udishkrishna447/java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/udishkrishna447/java/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/udishkrishna447/java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udishkrishna447/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/udishkrishna447/java/tree/master/0088-merge-sorted-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/udishkrishna447/java/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/udishkrishna447/java/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
