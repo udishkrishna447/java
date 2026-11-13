@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/udishkrishna447/java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/udishkrishna447/java/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/udishkrishna447/java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/udishkrishna447/java/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/udishkrishna447/java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/udishkrishna447/java/tree/master/0172-factorial-trailing-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/udishkrishna447/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/udishkrishna447/java/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/udishkrishna447/java/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/udishkrishna447/java/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/udishkrishna447/java/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/udishkrishna447/java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udishkrishna447/java/tree/master/0125-valid-palindrome) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/udishkrishna447/java/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/udishkrishna447/java/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/udishkrishna447/java/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/udishkrishna447/java/tree/master/1929-concatenation-of-array) |
